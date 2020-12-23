@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![](https://i.steer.space/extras/Negociation.jpg)
 
 
-<img src="https://i.steer.space/extras/Negociation.jpg" style="height:80px">
+<img src="https://i.steer.space/extras/Negociation.jpg" style="overflow: hidden; width: auto; object-fit: cover; margin: -70% 0px 0px 0px;">
