@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![](https://i.steer.space/extras/Negociation.jpg)
+
+
+<img src="https://i.steer.space/extras/Negociation.jpg" style="height:80px">
